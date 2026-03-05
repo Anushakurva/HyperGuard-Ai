@@ -1,0 +1,57 @@
+{
+  "anusha": {
+    "password": "1b9a06d44c1a36bccd8a350c752a895e59fef53194ebc76e27f7e662d16cbea9",
+    "email": "kura@gmail.com",
+    "full_name": "anusha",
+    "created_at": "2026-03-05T23:07:08.004564",
+    "profile": {
+      "age": "",
+      "gender": "",
+      "phone": "",
+      "address": ""
+    },
+    "health_history": []
+  },
+  "anusha12": {
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "email": "rthonupunuru@gmail.com",
+    "full_name": "anuuusha",
+    "created_at": "2026-03-05T23:10:16.674102",
+    "profile": {
+      "age": "",
+      "gender": "",
+      "phone": "",
+      "address": ""
+    },
+    "health_history": [
+      {
+        "age": 35,
+        "weight": 70.0,
+        "height": 170.0,
+        "bmi": 24.221453287197235,
+        "systolic": 120,
+        "diastolic": 80,
+        "smoking": 0,
+        "alcohol": 0,
+        "physical_activity": 0,
+        "salt_intake": 0,
+        "timestamp": "2026-03-05T23:12:36.475812",
+        "id": 1
+      },
+      {
+        "age": 19,
+        "weight": 39.0,
+        "height": 152.0,
+        "bmi": 16.880193905817176,
+        "systolic": 120,
+        "diastolic": 80,
+        "smoking": 0,
+        "alcohol": 0,
+        "physical_activity": 0,
+        "salt_intake": 0,
+        "timestamp": "2026-03-05T23:28:11.309336",
+        "id": 2
+      }
+    ]
+  }
+}

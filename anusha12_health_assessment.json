@@ -1,0 +1,16 @@
+{
+  "data": {
+    "health_data": {
+      "age": 19,
+      "weight": 39.0,
+      "height": 152.0,
+      "bmi": 16.880193905817176,
+      "systolic": 120,
+      "diastolic": 80,
+      "smoking": 0,
+      "alcohol": 0,
+      "physical_activity": 0,
+      "salt_intake": 0
+    },
+    "prediction": {
+      "prediction": 
